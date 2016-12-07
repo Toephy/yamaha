@@ -17,8 +17,6 @@ public class TestMain {
 
     public static void main(String[] args) {
 
-
-
         int size = 25;
         for (int p = 1; p < 10; p++) {
             int startOffset = (p - 1) * (size);
