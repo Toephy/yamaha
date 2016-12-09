@@ -5,6 +5,7 @@ package com.lixing;
  */
 public class ReferenceTricks {
 
+    
     public int i;
 
     private static void changeReference(ReferenceTricks r) {

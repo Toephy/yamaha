@@ -1,15 +1,8 @@
 package com.lixing;
 
-import com.google.common.io.Resources;
 import org.apache.commons.io.output.ByteArrayOutputStream;
 import org.apache.commons.lang.StringUtils;
-import org.apache.commons.lang.math.NumberUtils;
-import org.apache.log4j.lf5.util.Resource;
 
-import java.io.File;
-import java.util.ArrayList;
-import java.util.LinkedList;
-import java.util.List;
 import java.util.zip.GZIPOutputStream;
 
 public class TestMain {
